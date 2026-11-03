@@ -1,0 +1,71 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B2533"></stop>
+      <stop offset="55%" stop-color="#103D4B"></stop>
+      <stop offset="100%" stop-color="#075568"></stop>
+    </linearGradient>
+
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="white" stop-opacity="1"></stop>
+      <stop offset="65%" stop-color="white" stop-opacity=".9"></stop>
+      <stop offset="100%" stop-color="white" stop-opacity="0"></stop>
+    </linearGradient>
+
+    <mask id="fadeMask">
+      <rect width="1200" height="320" fill="url(#fade)"></rect>
+    </mask>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="320" fill="url(#bg)" mask="url(#fadeMask)"></rect>
+
+  <!-- Left geometric elements -->
+  <g mask="url(#fadeMask)" stroke="#65C8D8" fill="none" stroke-width="2">
+
+    <polygon points="95,65 115,85 95,105 75,85" opacity=".65"></polygon>
+
+    <circle cx="180" cy="155" r="12" opacity=".55"></circle>
+
+    <polygon points="255,55 270,80 240,80" opacity=".55"></polygon>
+
+    <rect x="125" y="220" width="25" height="25" rx="5" transform="rotate(25 137 232)" opacity=".4"></rect>
+
+    <path d="M65 180 L95 195 L110 180" opacity=".45"></path>
+
+    <circle cx="285" cy="235" r="5" fill="#65C8D8" opacity=".5"></circle>
+
+    <path d="M200 65 L220 45 M235 180 L255 195" opacity=".45"></path>
+  </g>
+
+  <!-- Right geometric elements -->
+  <g mask="url(#fadeMask)" stroke="#65C8D8" fill="none" stroke-width="2">
+
+    <polygon points="1100,65 1120,85 1100,105 1080,85" opacity=".65"></polygon>
+
+    <circle cx="1015" cy="150" r="13" opacity=".55"></circle>
+
+    <polygon points="930,55 945,80 915,80" opacity=".55"></polygon>
+
+    <rect x="1060" y="220" width="25" height="25" rx="5" transform="rotate(25 1072 232)" opacity=".4"></rect>
+
+    <path d="M1135 180 L1105 195 L1090 180" opacity=".45"></path>
+
+    <circle cx="915" cy="235" r="5" fill="#65C8D8" opacity=".5"></circle>
+
+    <path d="M1000 65 L980 45 M965 180 L945 195" opacity=".45"></path>
+  </g>
+
+  <!-- Name -->
+  <text x="600" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="58" font-weight="bold" fill="#FFFFFF">
+    Amir Mohammad Saberi
+  </text>
+
+  <!-- Subtitle -->
+  <text x="600" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="600" fill="#B9DCE5">
+    Computer Engineering Student | Software Engineer
+  </text>
+
+</svg>

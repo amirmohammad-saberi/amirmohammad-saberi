@@ -32,10 +32,13 @@ Beyond programming and software development, I'm also interested in graphic desi
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
 </p>
 
+
 <h2>🧰 Frameworks, Libraries & Tools</h2>
 
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,git,github,wordpress,ps" height="40" alt=".NET, Visual Studio, VS Code, Git, GitHub, WordPress, Photoshop"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/indesign/indesign-plain.svg" height="40" alt="Adobe InDesign"/>
 </p>
 
 <p>
@@ -46,6 +49,4 @@ Beyond programming and software development, I'm also interested in graphic desi
   <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="LINQ"/>
   <img src="https://img.shields.io/badge/HttpClient-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="HttpClient"/>
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/Adobe_InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" alt="Adobe InDesign"/>
 </p>

@@ -59,12 +59,12 @@
   </g>
 
   <!-- Name -->
-  <text x="600" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="58" font-weight="bold" fill="#FFFFFF">
+  <text x="600" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="58" font-weight="bold" fill="#FFFFFF">
     Amir Mohammad Saberi
   </text>
 
   <!-- Subtitle -->
-  <text x="600" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="600" fill="#B9DCE5">
+  <text x="600" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="600" fill="#B9DCE5">
     Computer Engineering Student | Software Engineer
   </text>
 

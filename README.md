@@ -11,3 +11,5 @@ I enjoy building applications, designing databases, and exploring new technologi
 I'm continuously expanding my knowledge, improving my development skills, and exploring new technologies.
 
 I'm always eager to learn, solve problems, and turn ideas into practical solutions.
+
+Beyond programming and software development, I'm also interested in graphic design, particularly poster design, social media visuals, and magazine layout. I'm also passionate about video games, gaming culture, movies, and TV shows.

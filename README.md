@@ -15,51 +15,37 @@ I'm always eager to learn, solve problems, and turn ideas into practical solutio
 Beyond programming and software development, I'm also interested in graphic design, particularly poster design, social media visuals, and magazine layout. I'm also passionate about video games, gaming culture, movies, and TV shows.
 
 
-<h2 align="left">💻 Programming Languages</h2>
+<h2>💻 Programming Languages</h2>
 
 <h3>🟢 Advanced</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,html,css" height="40" alt="C#, HTML, CSS" />
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,html,css" height="40" alt="C#, HTML, CSS"/>
 </p>
 
 <h3>🟡 Intermediate</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" />
+<p>
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP"/>
 </p>
 
 <h3>⚪ Beginner</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
 </p>
 
-<h2 align="left">🧰 Frameworks, Libraries & Tools</h2>
+<h2>🧰 Frameworks, Libraries & Tools</h2>
 
-<p align="left">
-  <a href="https://dotnet.microsoft.com/">
-    <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=".NET" />
-  </a>
-  <a href="https://visualstudio.microsoft.com/">
-    <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visual Studio" />
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
-  </a>
-  <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
-  </a>
-  <a href="https://wordpress.org/">
-    <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="WordPress" />
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html">
-    <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Adobe Photoshop" />
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,git,github,wordpress,ps" height="40" alt=".NET, Visual Studio, VS Code, Git, GitHub, WordPress, Photoshop"/>
 </p>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="SQL Server" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Adobe Illustrator" />
+<p>
+  <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET MVC"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+  <img src="https://img.shields.io/badge/Windows_Forms-512BD4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Forms"/>
+  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework"/>
+  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="LINQ"/>
+  <img src="https://img.shields.io/badge/HttpClient-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="HttpClient"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Adobe_InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" alt="Adobe InDesign"/>
 </p>

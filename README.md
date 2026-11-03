@@ -25,7 +25,10 @@ Beyond programming and software development, I'm also interested in graphic desi
 <h3>🟡 Intermediate</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&labelColor=white"
+       width="40"
+       height="40"
+       alt="SQL"/>
 </p>
 
 <h3>⚪ Beginner</h3>
@@ -39,8 +42,9 @@ Beyond programming and software development, I'm also interested in graphic desi
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,git,github,wordpress,ps" height="40" alt=".NET, Visual Studio, VS Code, Git, GitHub, WordPress, Photoshop"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="SQL Server"/>
-  <img src="https://cdn.simpleicons.org/adobeindesign"
-     height="40"
+<img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Adobe%20Indesign%20CC%202026%20icon.svg"
+     width="41"
+     height="41"
      alt="Adobe InDesign"/>
 </p>
 

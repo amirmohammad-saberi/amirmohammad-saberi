@@ -38,7 +38,9 @@ Beyond programming and software development, I'm also interested in graphic desi
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,git,github,wordpress,ps" height="40" alt=".NET, Visual Studio, VS Code, Git, GitHub, WordPress, Photoshop"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="SQL Server"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/indesign/indesign-plain.svg" height="40" alt="Adobe InDesign"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/indesign/indesign-original.svg"
+     height="40"
+     alt="Adobe InDesign"/>
 </p>
 
 <p>
@@ -50,3 +52,6 @@ Beyond programming and software development, I'm also interested in graphic desi
   <img src="https://img.shields.io/badge/HttpClient-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="HttpClient"/>
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
 </p>
+
+<br/>
+<h3 align="center"> Thank you for visiting my profile! </h3>
